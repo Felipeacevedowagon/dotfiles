@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Felipe Acevedo Pfacevedo@misena.edu.co
+	email = pfacevedo@misena.edu.co
+	name = Felipe Acevedo
